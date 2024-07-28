@@ -1,2 +1,4 @@
 "Hello, GitHub"
 "today is exp_6 of sepm"
+"today is exp_6 of sepm"
+"im doing remote deletion"
