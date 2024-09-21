@@ -24,6 +24,10 @@ This repository provides a collection of datasets for use in various data scienc
 - 
 - **Download**: [who india health,life expectancy,population Dataset](https://data.who.int/countries/356)
   
+### 1. **DATAHUB.IO**
+- 
+- **Download**: [Data set about every thing  Dataset](https://datahub.io/collections)
+  
   
 
 
