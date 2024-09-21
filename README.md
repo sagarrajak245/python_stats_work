@@ -5,8 +5,8 @@ Welcome to the **Data Science & Statistics Project Repository**! This repository
 ---
 
 ## 🗂️ Table of Contents
-1. [Overview](https://www.getsuper.ai/post/12-essential-sql-project-ideas-for-data-analyst-resumes-in-2024)
-2. [Available Datasets](#available-datasets)
+1. [ONE STOCK SOLUTION](https://www.getsuper.ai/post/12-essential-sql-project-ideas-for-data-analyst-resumes-in-2024)
+2. [Placement DRIVE](https://drive.google.com/drive/folders/1Fqr4QWLOkQm_XXRIXnmCfudfg5R5Q3uU)
 
 
 
